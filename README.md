@@ -57,3 +57,4 @@ spicetify backup apply
 | Script blocked by antivirus | Temporarily disable Windows Defender real-time protection |
 | Spotify looks broken after patch | Restore from backup: rename `xpui.backup` back to `xpui` |
 | SpotX doesn't support this version | Check https://github.com/SpotX-Official/SpotX for updates |
+| CLAUDE FIX BECAUSE IM LAZY!!! Your welcome I wrote this readme for u
