@@ -53,7 +53,6 @@ spicetify backup apply
 
 | Error | Fix |
 |-------|-----|
-| `xpui.spa not found` | You're on the Store version — reinstall from spotify.com |
 | Script blocked by antivirus | Temporarily disable Windows Defender real-time protection |
 | Spotify looks broken after patch | Restore from backup: rename `xpui.backup` back to `xpui` |
 | SpotX doesn't support this version | Check https://github.com/SpotX-Official/SpotX for updates |
